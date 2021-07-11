@@ -1,0 +1,32 @@
+Search engines used: Google, Ecosia
+
+YouTube
+    - https://www.youtube.com/watch?v=HUVawJXeHfU (Yarn 2 (Berry) - Plug'n'play, Constraints and Workspaces)
+    - https://www.youtube.com/watch?v=Dorf8i6lCuk (React Crash Course for Beginners 2021)
+            
+REACT
+ - https://www.reactjs.org/ (Tutorial pages and Getting started)
+ - https://www.create-react-app.dev/docs/getting-started/ (Getting started on creating a REACT application)
+ - https://www.pluralsight.com (used for some guides)
+ - https://www.reactgo.com
+
+YARN
+ - https://www.yarnpkg.com/ (Getting started, installation, General reading over features, CLI)
+ - https://jherr.github.io/berry-rule-builder/ (Rulse builder for yarn constraints)
+
+CSS/HTML
+ - https://www.w3schools.com/ (CSS styling and HTML usage)
+
+Bug Fixes/Error Searches:
+ - https://dev.to/ashleyo/comment/1c5p2
+ - https://stackoverflow.com/
+ - https://www.reactgo.com
+
+Terms/Definitions:
+ - https://www.webopedia.com/definitions/modal-window/
+        Intorduced into the modal window term via the React crash course
+
+Design approach:
+ - https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_cv&stacked=h
+
+        

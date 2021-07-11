@@ -1,0 +1,16 @@
+.main {
+  margin: 3rem auto;
+  width: 90%;
+  max-width: 80rem;
+  overflow: auto;
+}
+
+.backdrop {
+  position: fixed;
+  z-index: 1;
+  background-color: #cec7d3;
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  left: 0;
+}
